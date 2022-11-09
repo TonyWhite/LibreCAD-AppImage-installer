@@ -13,4 +13,4 @@ You have LibreCAD AppImage and you want to integrate it with the system menu, ic
 
 **Uninstall**
 
-1. Run the `uninstall.sh` script
+1. Run the `uninstall.sh` script in the terminal as root
